@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-name=Colors_HD, group-title="TV", 1. Colors HD
 http://tv.googledrivelinks.com:8088/live.php?c=Colors_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-name=Sony_HD, group-title="TV", 2. Sony HD
-http://tv.googledrivelinks.com:8088/live.php?c=Sony_HD&q=1200&e=.m3u8
+http://tv.googledrivelinks.com/live.php?c=Sony_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-name=Star_Plus_HD, group-title="TV", 3. Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-name=Zee_TV_HD, group-title="TV", 4. Zee TV HD
